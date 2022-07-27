@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benetrex
 - 👀 I’m interested in the IoT, cloud development and sustainability
-- 🌱 I’m currently learning cyber-security and offensive penetration testing
+- 🌱 I’m currently learning cyber-security and offensive penetration testing, PCB-design and hardware oriented development
 - 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me: benedikt.treckmann@protonmail.com
 
